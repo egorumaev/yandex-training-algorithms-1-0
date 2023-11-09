@@ -67,3 +67,39 @@
 </table>
 
 ---
+## **Разборы домашних заданий**
+
+<table>
+<tr>
+  <th>№</th>
+  <th>Название</th>
+  <th>Ссылка</th>
+</tr> 
+
+<tr>
+  <td>1</td>
+  <td>Разбор домашнего задания по лекциям 1 и 2</td>
+  <td><a href = "https://www.youtube.com/watch?v=mdJdB7On4AM">Видеозапись разбора</a></td>
+</tr>
+
+<tr>
+  <td>2</td>
+  <td>Разбор домашнего задания по лекциям 3 и 4</td>
+  <td><a href = "https://www.youtube.com/watch?v=J2C6rDqe8mQ">Видеозапись разбора</a></td>
+</tr>
+
+<tr>
+  <td>3</td>
+  <td>Разбор домашнего задания по лекциям 5 и 6</td>
+  <td><a href = "https://www.youtube.com/watch?v=fqsuy5rwZhk">Видеозапись разбора</a></td>
+</tr>
+
+<tr>
+  <td>4</td>
+  <td>Разбор домашнего задания по лекциям 7 и 8</td>
+  <td><a href = "https://www.youtube.com/watch?v=5lfkBD4dnGM">Видеозапись разбора</a></td>
+</tr>
+
+</table>
+
+---
